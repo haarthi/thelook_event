@@ -1,5 +1,5 @@
 connection: "thelook_events"
-persist_for: "1 hour" # cache all query results for one hour
+persist_for: "24 hour" # cache all query results for one day
 label: "eCommerce with Event Data"
 
 
